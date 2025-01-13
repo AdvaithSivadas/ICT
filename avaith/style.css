@@ -1,0 +1,27 @@
+h1{ text-decoration:underline;
+    text-emphasis-style:calc();
+text-align: center;
+text-transform:capitalize;
+text-indent: 0cap;
+text-shadow: 0ic;
+text-wrap:balance;
+text-decoration-style:wavy ;
+text-overflow:calc();
+
+}
+h2{
+    text-align: center;
+    text-wrap:pretty;
+    text-decoration-thickness:unset;
+    text-decoration-color: rgb(61, 75, 70);
+    text-decoration-line: underline;
+    text-decoration-skip:var(dashed);
+    grid-template-columns: subgrid;
+}
+.fhead{
+    background-color: rgb(17, 64, 68);
+    border: 70px solid rgb(39, 65, 69);
+    margin: 60px;
+    padding: 60px;
+} 
+    
